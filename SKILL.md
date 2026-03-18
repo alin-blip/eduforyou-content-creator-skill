@@ -904,3 +904,579 @@ Market Your Skill: https://marketyourskill.eduforyou.co.uk
 
 *Document creat: Martie 2026*
 *Bazat pe: voice_profile_alin.md, teaching_style_alin.md, brand_analysis_notes.md, EduForYou_MYS_Brand_Style_Guide.md, eduforyou_youtube_skill.md*
+
+---
+
+## 12. FRAMEWORK RECLAME FACEBOOK/META (Ads)
+
+Această secțiune conține tot ce are nevoie un agent AI pentru a crea reclame Facebook/Meta de top pentru EduForYou și Market Your Skill. Integrează framework-urile strategice ale lui Alex Hormozi și Fraser, adaptate specific pentru contextul educațional și audiența românilor din UK.
+
+---
+
+### 12.1 — Regula Celor UNU (Alex Hormozi) — Adaptată pentru EduForYou
+
+**Principiul de bază:** Fiecare reclamă EduForYou trebuie să aibă **O SINGURĂ IDEE MARE**. Nu amesteca "Student Finance + Market Your Skill + Cursuri + Campusuri" în aceeași reclamă. Alegi una și o execuți perfect.
+
+**Cerințe pentru ideea principală:**
+- Ușor de înțeles (un copil de 12 ani trebuie să înțeleagă)
+- Ușor de crezut (ancorată în realitate: Student Finance England este un fapt, nu o promisiune)
+- Interesantă/Unică (ce nu spune nimeni altcineva)
+- Toate sub-punctele DOAR să susțină acest concept unic
+
+**Citatul lui Alex Hormozi:**
+> "Când trebuie să alegi doar una, te forțezi să fii incredibil de tactic în selecție pentru că vei alege doar una. Și cred că asta ne forțează ca marketeri să gândim cu adevărat: este aceasta cea mai bună idee? Este acesta cel mai centralizat concept focalizat pe care îl pot pune în vârful suliței mesajului meu de comunicare?"
+
+**Exemplu BAD (Toss Salad Copy) — NU face asta:**
+> "EduForYou îți oferă cursuri universitare acreditate, finanțare 100%, Market Your Skill cu 7 sisteme AI, campusuri în Londra, Birmingham, Manchester și Leeds, și suport complet pentru dosarul tău."
+
+**Exemplu GOOD (Regula Celor Unu) — FACE asta:**
+> "Student Finance England îți plătește facultatea 100%. Zero bani din buzunarul tău. Zero. Asta este tot ce trebuie să știi acum."
+
+**Cele 3 Idei Mari Principale pentru EduForYou (alege una per reclamă):**
+
+| Idee Mare | Mesaj Central | Audiență Primară |
+|-----------|--------------|-----------------|
+| Finanțare 100% | "Student Finance England — zero bani din buzunar" | Oricine crede că nu-și permite facultatea |
+| Câștigă în timp ce înveți | "Market Your Skill — venit din ziua 1 cu skill-urile tale" | Studenți care vor independență financiară |
+| Transformarea traiectoriei | "De la depozit la birou în 3 ani" | Cei blocați în munci necalificate |
+
+---
+
+### 12.2 — Generarea Unghiurilor (Fraser) — Matricea EduForYou
+
+Fiecare unghi are același mesaj de bază, dar îl livrezi diferit în funcție de hook și format. Testezi toate trei și scalezi ce funcționează.
+
+**Unghi 1: "Finanțare 100% — zero bani din buzunar"**
+
+| Element | Detalii |
+|---------|---------|
+| Messaging/Unghi | Universitatea în UK nu costă nimic din buzunar |
+| Hook Opțiunea 1 | Video: Alin arătând un extras de cont Student Finance — "Uite ce a trimis statul britanic" |
+| Hook Opțiunea 2 | Text pe ecran: "Statul britanic te plătește să înveți. Și nimeni nu îți spune asta." |
+| Hook Opțiunea 3 | Street interview: "Știai că poți face facultate în UK fără să plătești nimic?" |
+| Format Recomandat | Founder Ad (Alin) sau UGC cu student real |
+
+**Unghi 2: "Câștigă în timp ce înveți cu Market Your Skill"**
+
+| Element | Detalii |
+|---------|---------|
+| Messaging/Unghi | Nu trebuie să aștepți 3 ani — poți câștiga din primul an |
+| Hook Opțiunea 1 | "Andrei are 19 ani, e student la EduForYou și câștigă £300 pe proiect. Cum?" |
+| Hook Opțiunea 2 | Grafică animată: "Student + Skill Scanner AI + Primul Client = £300 în 30 de zile" |
+| Hook Opțiunea 3 | Alin direct la cameră: "Ce nu îți spun alte universități: poți câștiga în timp ce înveți." |
+| Format Recomandat | Mini VSL sau Mashup Ad cu testimoniale studenți |
+
+**Unghi 3: "De la depozit la birou în 3 ani"**
+
+| Element | Detalii |
+|---------|---------|
+| Messaging/Unghi | Transformarea concretă și vizuală a traiectoriei de viață |
+| Hook Opțiunea 1 | Split screen: depozit (stânga, rece, gri) vs. birou modern (dreapta, cald, auriu) |
+| Hook Opțiunea 2 | "Lucrezi în UK de 5 ani și tot câștigi cât în prima lună. Iată de ce." |
+| Hook Opțiunea 3 | Testimonial video: "Am lucrat 4 ani în construcții. Acum sunt project manager." |
+| Format Recomandat | UGC cu student real sau Founder Ad cu povestea lui Alin |
+
+---
+
+### 12.3 — Potrivirea Formatului cu Etapa Funnel-ului
+
+#### TOP OF FUNNEL (Audiență Rece — Nu te cunoaște)
+
+Scopul: Introducere naturală, organică. Se simte ca o recomandare de la un prieten, nu ca o reclamă.
+
+**Format 1 — UGC cu Studenți Reali:**
+Studenți EduForYou reali (Andrei, Maria, Alex din testimonialele existente) filmând cu telefonul, natural, fără producție elaborată.
+
+> Exemplu script UGC: "Sincer nu credeam că pot face facultate în UK. Lucram în depozit, nu aveam bani. Cineva mi-a spus de EduForYou și Student Finance. Am aplicat. Acum sunt în anul 2 la BSc Computing și câștig £300 pe proiect prin Market Your Skill."
+
+*De ce funcționează: Introducere naturală, organică. Se simte ca o recomandare de la un prieten.*
+
+**Format 2 — Street Interview:**
+Interviu pe stradă cu români din UK, întrebați spontan despre situația lor educațională.
+
+> Exemplu: "Știai că poți face o facultate britanică fără să plătești nimic din buzunar?" → Reacție surprinsă → "Serios? Cum?" → "Prin Student Finance England. Hai să îți explic."
+
+*De ce funcționează: Se simte ca conținut organic TikTok, nu ca o reclamă. Introduce brandul natural.*
+
+**Format 3 — Founder Ad (Alin):**
+Alin povestind direct la cameră, vulnerabil și autentic, despre propria transformare.
+
+> Exemplu: "Până la 30 de ani am crezut că munca fizică este singura opțiune. Tir, depozit, construcții. Burnout, psihiatrie, 30 de kilograme în plus. Și apoi am descoperit că există un sistem complet diferit. Nu pentru că eram special — ci pentru că nimeni nu mi-a arătat înainte. Acum ajut mii de români din UK să facă același lucru."
+
+*De ce funcționează: Storytelling-ul construiește încredere și autoritate. Oamenii se conectează cu călătoria fondatorului.*
+
+#### MIDDLE OF FUNNEL (Audiență Warm — Te-a văzut, dar nu a acționat)
+
+Scopul: Educație, poziționarea EduForYou ca SOLUȚIA, construirea dorinței.
+
+**Format 1 — Mini VSL (2-3 minute):**
+Alin sau un student explicând pas cu pas cum funcționează sistemul: Student Finance → Aplicare → Curs → Market Your Skill → Primul Venit.
+
+> Exemplu hook Mini VSL: "Știi care este cel mai mare mit despre universitățile din UK? Că trebuie să plătești din buzunar. Lasă-mă să îți arăt exact cum funcționează Student Finance England în 3 minute."
+
+*De ce funcționează: Educațional, poziționează EduForYou ca SOLUȚIA, construiește dorință.*
+
+**Format 2 — Mashup Ads:**
+Combini clipuri din testimoniale studenți + voiceover Alin + grafice cu cifrele Student Finance. Rapid de produs, testezi multiple unghiuri.
+
+> Structura: 3 secunde testimonial Andrei → 3 secunde testimonial Maria → 3 secunde testimonial Alex → Voiceover Alin: "Aceștia sunt studenți EduForYou. Oameni reali, rezultate reale. Tu urmezi?" → CTA.
+
+#### BOTTOM OF FUNNEL (Audiență Fierbinte — Gata să aplice)
+
+Scopul: Social proof final, eliminarea ultimei ezitări, CTA direct.
+
+**Format 1 — Static Ads (Imagini):**
+Imagine simplă cu ofertă clară și CTA direct. Cel mai ușor de produs și adesea cel mai bun ROI.
+
+> Exemplu: Fundal navy. Text auriu bold: "BSc Computing — 100% Finanțat". Sub el: "Aplică acum: eduforyou.co.uk". Logo EduForYou. Nimic altceva.
+
+**Format 2 — Compilații Testimoniale:**
+3-5 testimoniale video scurte montate împreună. Studenți reali, rezultate concrete.
+
+> Structura: Andrei (£300 primul proiect) → Maria (£5k negociat în plus) → Alex (3 clienți beta în luna 2) → Text pe ecran: "Tu urmezi?" → CTA.
+
+**Format 3 — Offer-Based Ads:**
+Urgență sau bonus specific pentru cei care aplică acum.
+
+> Exemplu: "Aplică înainte de [dată] și primești acces gratuit la Market Your Skill (valoare £1,000)."
+
+---
+
+### 12.4 — Structura Scriptului
+
+#### Formula Durată + Beneficiu + Cuvânt Puternic (Alex Hormozi) — Adaptată EduForYou
+
+Această formulă creează oferte irezistibile care comunică rapid ce obții, în cât timp, și de ce este special.
+
+**Formula:** `[Durată] + [Beneficiu Specific] + [Cuvânt Puternic]`
+
+| Exemplu EduForYou | Durată | Beneficiu | Cuvânt Puternic |
+|-------------------|--------|-----------|-----------------|
+| "30-Day First Income Blueprint" | 30 de zile | Primul venit din skill-uri | Blueprint |
+| "3-Year Career Transformation Accelerator" | 3 ani | Transformare carieră completă | Accelerator |
+| "7-Day Skill Discovery Challenge" | 7 zile | Descoperirea skill-urilor monetizabile | Challenge |
+| "21-Day CV-as-Offer Intensive" | 21 de zile | CV care atrage oferte, nu cereri | Intensive |
+| "90-Day From Warehouse to Office Program" | 90 de zile | Tranziția concretă de la muncă fizică la birou | Program |
+
+**Cuvinte Puternice Aprobate pentru EduForYou:**
+Challenge, Blueprint, Accelerator, Intensive, Transformation, Program, System, Framework.
+
+**Structura Completă a Copiei (adaptată din Hormozi):**
+
+```
+TITLU: "30-Day First Income Blueprint"
+
+PRIMA LINIE (Cine vrei/nu vrei):
+"Români din UK care sunt serioși în privința construirii unui venit
+din skill-urile lor (nu caută soluții magice sau scheme rapide)..."
+
+SUB-TITLU (Legat de titlu):
+"Nu ar fi frumos să câștigi primii £300 din ceva ce știi deja să faci?
+Cu toții avem skill-uri pe care le ignorăm pentru că nu știm cum să le monetizăm."
+
+CORP (Autoritate + Explicație):
+"Nu este vorba de noroc sau de conexiuni. Este vorba de sistem.
+În ultimii 3 ani, am ajutat sute de studenți EduForYou să obțină
+primul client în 30 de zile folosind Market Your Skill.
+Acum deschidem locuri în Blueprint-ul nostru de 30 de zile."
+
+CTA:
+"Dacă vrei să câștigi primii £300 din skill-urile tale,
+dă click și revendică-ți locul."
+```
+
+#### Framework-ul Villain & Hero (Fraser) — 8 Pași Complet
+
+Acesta este cel mai puternic framework pentru reclame EduForYou. Jobul necalificat sau credința falsă că universitatea costă este Villainul. EduForYou + Market Your Skill este Eroul.
+
+**Structura:**
+
+| Pas | Timp | Rol |
+|-----|------|-----|
+| 1. Hook | 0-3 secunde | Captează atenția vizual și audio simultan |
+| 2. Stabilește Villainul | 3-20 secunde | Prezintă inamicul (jobul necalificat, mitul costului) |
+| 3. Răsucește Cuțitul | 20-40 secunde | Amplifică durerea, adaugă un al doilea strat de problemă |
+| 4. Dezvăluie Eroul | 40 secunde | Introduce EduForYou ca soluția |
+| 5. Listează USP-urile | 50-70 secunde | Finanțare 100%, Market Your Skill, campusuri, flexibilitate |
+| 6. Gestionează Obiecțiile | 70-85 secunde | "Nu am timp", "Nu știu engleza", "Sunt prea bătrân" |
+| 7. Demo + Beneficii | 85-95 secunde | Arată platforma, testimoniale, cifre concrete |
+| 8. CTA | 95-100 secunde | Invitație caldă, link clar |
+
+---
+
+### 12.5 — Exemple Complete de Scripturi EduForYou
+
+#### Script 1: Reclamă BSc Computing (Villain = Jobul Necalificat, Hero = EduForYou + Market Your Skill)
+
+**1. HOOK (0-3 secunde):**
+- **Visual:** Alin în fața unui laptop, expresie serioasă, fundal navy cu lumini aurii.
+- **Audio:** *"Jobul tău necalificat te va ține blocat toată viața."*
+- **Text pe ecran:** "ADEVĂRUL PE CARE NIMENI NU ÎL SPUNE"
+
+**Analiza:** Hook dual — vizual premium care oprește scroll-ul + audio care targetează exact durerea audienței. Propoziția este scurtă, directă, și creează un loop de curiozitate imediat.
+
+---
+
+**2. STABILEȘTE VILLAINUL (3-20 secunde):**
+> "Lasă-mă să îți explic. Munca fizică în UK — depozit, construcții, fabrică — a fost proiectată să fie înlocuibilă. Tu ești înlocuibil. Oricând poate veni cineva care acceptă mai puțin. Și tu știi asta."
+
+**Analiza:** Villainul nu este o persoană — este sistemul. Audiența nu se simte atacată, se simte înțeleasă. "Tu știi asta" creează validare și conexiune.
+
+---
+
+**3. RĂSUCEȘTE CUȚITUL (20-40 secunde):**
+> "Și iată ce este și mai dureros: cu fiecare an care trece fără o calificare, diferența de salariu crește. Un coleg cu BSc în Computing câștigă £35,000 pe an. Tu câștigi £22,000. Diferența? £13,000 pe an. În 10 ani, £130,000 pe care nu îi vei recupera niciodată."
+
+**Analiza:** Cifrele concrete transformă durerea abstractă în pierdere financiară calculabilă. Audiența poate face matematica singură — și o face.
+
+---
+
+**4. DEZVĂLUIE EROUL (40 secunde):**
+> "Aici intervine EduForYou. Nu este o altă universitate. Este sistemul care combină o diplomă britanică acreditată cu Market Your Skill — platforma AI care te ajută să câștigi din ziua 1."
+
+**Analiza:** Eroul este introdus ca o soluție duală: diploma (credențialul pe termen lung) + Market Your Skill (venitul pe termen scurt). Aceasta adresează obiecția "dar trebuie să aștept 3 ani".
+
+---
+
+**5. LISTEAZĂ USP-URILE (50-70 secunde):**
+> "Iată ce obții: BSc Computing acreditat în UK — 100% finanțat prin Student Finance England, zero bani din buzunar. Studiezi 2 zile pe săptămână și continui să lucrezi. Și primești acces la Market Your Skill — 7 sisteme AI care te ajută să obții primul client în 30 de zile. Inclus gratuit, valoare £1,000."
+
+**Analiza:** USP-urile sunt livrate rapid, fiecare cu un beneficiu clar. "Zero bani din buzunar" și "valoare £1,000 inclus gratuit" sunt ancorele emoționale.
+
+---
+
+**6. GESTIONEAZĂ OBIECȚIILE (70-85 secunde):**
+> "Poate te gândești: nu am timp. Înțeleg. De aceea programul este flexibil — 2 zile pe săptămână, online și campus. Sau poate: nu știu engleza suficient de bine. Studenții noștri au început cu același nivel. Sau: sunt prea bătrân. Cel mai în vârstă student al nostru a început la 47 de ani."
+
+**Analiza:** Obiecțiile sunt recunoscute cu empatie ("Înțeleg"), nu respinse. Fiecare este urmată de o dovadă concretă.
+
+---
+
+**7. DEMO + BENEFICII (85-95 secunde):**
+> "Andrei, 19 ani, lucra în depozit. Acum este student la BSc Computing și câștigă £300 pe proiect prin Market Your Skill. Maria, 21 de ani, a negociat salariul cu £5,000 mai mult folosind CV-ul ca ofertă. Alex, 20 de ani, are 3 clienți beta după luna 2."
+
+**Analiza:** Testimonialele reale cu nume, vârstă și cifre concrete. Nu "studenții noștri au succes" — ci "Andrei, 19 ani, £300 pe proiect".
+
+---
+
+**8. CTA (95-100 secunde):**
+> "Dacă ești gata să îți schimbi traiectoria, te invit să aplici acum. Dă click pe linkul de mai jos. Hai să facem planul tău. Ne vedem acolo."
+
+**Analiza:** CTA în vocea lui Alin — invitație caldă, nu presiune. "Hai să facem planul tău" este personal și colaborativ.
+
+---
+
+#### Script 2: Reclamă Student Finance (Villain = Credința că Universitatea Costă, Hero = Finanțarea 100%)
+
+**1. HOOK (0-3 secunde):**
+- **Visual:** Mână care ține un plic cu sigla "Student Finance England", expresie surprinsă pozitiv.
+- **Audio:** *"Statul britanic îți plătește facultatea. Și tu nu știi asta."*
+- **Text pe ecran:** "£25,000 — GRATUIT"
+
+---
+
+**2. STABILEȘTE VILLAINUL (3-20 secunde):**
+> "Toată lumea crede că universitatea în UK costă o avere. Că trebuie să ai economii, că trebuie să renunți la job, că trebuie să fii bogat. Această credință ține mii de români din UK blocați în joburi pe care le urăsc."
+
+**Analiza:** Villainul este o credință falsă, nu o persoană sau o companie. Audiența se identifică cu această credință — și acum o vede ca pe o problemă de rezolvat.
+
+---
+
+**3. RĂSUCEȘTE CUȚITUL (20-40 secunde):**
+> "Și cel mai dureros? Această credință falsă te costă bani reali. Fiecare an fără o diplomă britanică înseamnă £10,000-£15,000 în venit pierdut față de un absolvent. Ai pierdut deja câți ani? Calculează singur."
+
+**Analiza:** "Calculează singur" este o tehnică puternică — audiența face matematica și ajunge singură la concluzia dureroasă. Mult mai eficient decât să le spui tu cifra.
+
+---
+
+**4. DEZVĂLUIE EROUL (40 secunde):**
+> "Iată realitatea: Student Finance England există exact pentru asta. Statul britanic îți oferă un împrumut de până la £25,000 pentru studii. Nu plătești nimic acum. Returnezi DOAR după ce câștigi peste £25,000 pe an. Și dacă nu câștigi niciodată atât, nu returnezi niciodată."
+
+**Analiza:** "Nu returnezi niciodată" este o afirmație puternică care elimină frica de datorie. Este adevărată și trebuie spusă clar.
+
+---
+
+**5. LISTEAZĂ USP-URILE (50-70 secunde):**
+> "Prin EduForYou, accesezi Student Finance simplu și rapid. Noi te ghidăm cu dosarul — nu ești singur. Alegi din 9 cursuri: Computing, Business, Psychology, Accounting, Construction și altele. Studiezi flexibil: 1 zi pe campus + 1 zi online. Continui să lucrezi. Și primești acces la Market Your Skill — ca să câștigi din skill-urile tale în timp ce înveți."
+
+---
+
+**6. GESTIONEAZĂ OBIECȚIILE (70-85 secunde):**
+> "Poate te întrebi: sunt eligibil? Dacă ai Settled Status sau Pre-Settled Status în UK, cel mai probabil da. Sau: e complicat dosarul? Nu. Noi facem asta cu tine, pas cu pas. Sau: e prea târziu pentru mine? Nu există vârstă limită pentru Student Finance în UK."
+
+---
+
+**7. DEMO + BENEFICII (85-95 secunde):**
+> "Uite cum arată procesul: aplici prin EduForYou, completezi dosarul Student Finance împreună cu noi, primești confirmarea, începi cursul. De la zero la student universitar în câteva săptămâni. Fără bani din buzunar."
+
+---
+
+**8. CTA (95-100 secunde):**
+> "Dacă vrei să afli dacă ești eligibil, dă click pe linkul de mai jos. Completezi un formular simplu și te contactăm noi. Nu te costă nimic să verifici. Dă click acum."
+
+**Analiza:** CTA elimină riscul complet — "nu te costă nimic să verifici" reduce fricțiunea la zero. Pasul următor este minimal și sigur.
+
+---
+
+### 12.6 — Principii Psihologice
+
+#### Atenție — Cum Captezi Scroll-ul în 3 Secunde
+
+Atenția se câștigă simultan pe două canale: vizual și audio. Dacă ai doar unul, pierzi jumătate din audiență.
+
+**Exemplu EduForYou — Atenție Duală:**
+- Vizual: Alin ținând un plic "Student Finance England" cu expresie surprinsă
+- Audio: "Statul britanic îți plătește facultatea. Și tu nu știi asta."
+
+**Exemplu EduForYou — Atenție prin Întrerupere de Pattern:**
+- Vizual: Ciclezi rapid prin imagini cu muncă fizică (depozit, construcții, fabrică)
+- Audio: "Toate astea au ceva în comun. Te țin blocat."
+
+#### Curiozitate (Open Loop) — Cum Ții Audiența Până la CTA
+
+Oamenii vor în mod natural să închidă loopurile deschise. Dacă deschizi un loop și nu îl închizi, audiența rămâne.
+
+**Exemplu EduForYou:**
+> "Există un lucru pe care Student Finance England nu îl spune clar în documentele oficiale. Și acel lucru schimbă totul pentru românii din UK."
+
+*Loopul deschis: "Care este acel lucru?" Audiența trebuie să continue să urmărească.*
+
+**Exemplu Market Your Skill:**
+> "Andrei câștigă £300 pe proiect. Are 19 ani. Lucrează 10 ore pe săptămână. Cum? Iată exact ce face."
+
+*Loopul deschis: "Ce face exact?" Audiența trebuie să afle.*
+
+#### Emoție — Cele 3 Emoții Principale pentru EduForYou
+
+**Emoția 1 — Frustrare/Furie (pentru Villain Ads):**
+> "Companiile de recrutare îți iau 20% din salariu și nu îți spun că poți face asta singur. Ești înșelat."
+
+**Emoția 2 — Aspirație/Status (pentru Transformation Ads):**
+> "Nu ar fi frumos să fii primul din familia ta cu o diplomă britanică? Să fii exemplul pe care îl urmează frații tăi mai mici?"
+
+**Emoția 3 — Ușurare (pentru Finance Ads):**
+> "Problema nu ești tu. Nu ești prea sărac, nu ești prea bătrân, nu ești prea ocupat. Problema este că nimeni nu ți-a arătat sistemul."
+
+*Nota: "Problema nu ești tu" este tehnica "Nu Ești Tu" — elimină vinovăția, redirecționează vina către villain (lipsa informației), face clientul să se simtă înțeles și capabil.*
+
+#### Claritatea Bate Estetica — Regula de Aur
+
+> "Poți face o reclamă să arate absolut frumos, dar dacă nu transmiți punctul spectatorului, este complet inutil." — Fraser
+
+**Aplicat la EduForYou:** Fundalul navy și aurul 3D sunt premium, dar dacă mesajul nu este clar în primele 3 secunde, reclama eșuează indiferent cât de frumoasă arată. Prioritizează claritatea mesajului, nu perfecțiunea vizuală.
+
+**Test de claritate:** Dacă cineva vede reclama fără sunet, înțelege oferta în 3 secunde? Dacă nu — rescrie textul de pe ecran.
+
+---
+
+### 12.7 — Principii de Producție
+
+#### Viteza Bate Perfecțiunea
+
+> "La sfârșitul zilei, va fi reclama la care petreci mai puțin timp care va fi cea mai bine performantă. Deci dacă ai o idee, du-te și fă-o." — Fraser
+
+**Aplicat la EduForYou:** Nu petrece 3 săptămâni perfecționând un script. Filmează cu telefonul, testează, analizează datele, îmbunătățește. O reclamă filmată în 30 de minute și publicată astăzi bate o reclamă "perfectă" publicată luna viitoare.
+
+**Ierarhia producției pentru EduForYou:**
+1. Mesajul corect (Regula Celor Unu) — cel mai important
+2. Hook-ul corect (primele 3 secunde) — al doilea ca importanță
+3. Structura corectă (Villain & Hero sau Hormozi) — al treilea
+4. Calitatea producției — ultimul pe listă
+
+#### Culori și Fonturi — Adaptate la Paleta EduForYou
+
+**Paleta EduForYou este deja optimizată pentru audiența mixtă (bărbați și femei, 20-45 ani):**
+- Deep Navy (#0A1628) + Gold (#D4AF37) + White (#FFFFFF) = combinație universală, premium, care funcționează pentru ambele genuri.
+- Evită roșul agresiv sau verdele militar pentru reclame EduForYou — nu se potrivesc cu tonul aspirațional.
+- Pentru text pe ecran: font Bold Sans-Serif (Montserrat/Poppins), alb pe navy sau auriu pe navy.
+
+**Regula de contrast pentru text în reclame video:**
+- Text pe ecran: maxim 5 cuvinte, font minim 80pt, culoare albă sau aurie.
+- Fundal text: semi-transparent navy (#0A1628 la 80% opacitate) dacă fundalul video este deschis.
+- Niciodată text alb pe fundal deschis în reclame EduForYou.
+
+#### Arată Produsul în Uz — Aplicat la EduForYou
+
+EduForYou nu este un produs fizic, dar are echivalente vizuale puternice:
+
+| Echivalent Vizual | Ce Arată | Efect |
+|-------------------|---------|-------|
+| Platforma Market Your Skill pe ecran | Dashboard cu Skill Scanner, CV Builder, Dream 100 | "Există un sistem real, nu o promisiune" |
+| Scrisoarea de acceptare Student Finance | Document oficial cu suma finanțată | "Banii sunt reali, nu fictivi" |
+| Campusul EduForYou | Clădire modernă, sală de curs, studenți | "Universitatea este reală și accesibilă" |
+| Testimonial video student | Față reală, emoție reală, cifre reale | "Funcționează pentru oameni ca mine" |
+
+---
+
+### 12.8 — Strategia de Testare
+
+#### Matricea de Testare EduForYou: Același Mesaj, Formate Diferite
+
+**Mesaj de bază:** "Student Finance England — zero bani din buzunar"
+
+| Test | Format | Hook | Estimare Audiență |
+|------|--------|------|-------------------|
+| Test 1 | Founder Ad (Alin) | "Statul britanic îți plătește facultatea. Și tu nu știi asta." | Audiență care răspunde la autoritate/credibilitate |
+| Test 2 | UGC Student | "Am aplicat la EduForYou fără să știu nimic. Uite ce s-a întâmplat." | Audiență care răspunde la peer validation |
+| Test 3 | Static Ad | Imagine: plic Student Finance + text "£25,000 — GRATUIT" | Audiență bottom-of-funnel, gata să acționeze |
+| Test 4 | Street Interview | "Știai că poți face facultate în UK fără să plătești nimic?" | Audiență rece, top-of-funnel |
+
+**Regula de testare:** Lansezi toate 4 simultan cu același buget. După 3-5 zile, analizezi datele și scalezi ce funcționează.
+
+#### Metrici de Analizat
+
+| Metrică | Ce Măsoară | Benchmark EduForYou |
+|---------|-----------|---------------------|
+| Hook Rate (% vizionare 3s) | Calitatea hook-ului | >40% = hook bun |
+| ThruPlay Rate (% vizionare 15s) | Calitatea build-up-ului | >25% = build-up bun |
+| CTR (Click-Through Rate) | Calitatea CTA-ului | >2% = CTA bun |
+| Cost per Lead | Eficiența generală | Depinde de buget, urmărești trendul |
+| Comentarii la reclamă | Rezonanța mesajului | Citești comentariile — sunt un grup de focus gratuit |
+
+**Citatul lui Fraser:**
+> "Frumusețea reclamelor Meta este că cu cât reclama ta este mai cercetată, mai bine rotunjită, cu atât va performa mai bine. Și vei obține date de primă mână de asemenea. Vei vedea activ grafice de retenție."
+
+---
+
+### 12.9 — Congruența Reclamă-Pagină
+
+**Principiul:** Titlul reclamei = Titlul landing page-ului. Limbajul reclamei = Limbajul paginii. Imaginile reclamei = Imaginile paginii.
+
+**Citatul lui Alex Hormozi:**
+> "Aici este nevoie de muncă. Aici marketerii buni îi bat pe cei mediocri doar prin a nu fi leneși. Se asigură că pagina se potrivește cu oferta și beneficiile și rezultatele despre care vorbim în reclamă pentru că oamenii au dat click. Este exact ce vor."
+
+**Exemple de Congruență pentru EduForYou:**
+
+| Reclamă | Landing Page — CORECT | Landing Page — GREȘIT |
+|---------|----------------------|----------------------|
+| "Student Finance 100% — zero bani din buzunar" | Titlu: "Aplică pentru Student Finance — Zero Bani Din Buzunar" | Titlu: "Cursuri Universitare în UK" |
+| "De la depozit la birou în 3 ani" | Hero image: split screen depozit vs. birou | Hero image: clădire campus |
+| "BSc Computing — Finanțat 100%" | Pagina arată detalii BSc Computing + Student Finance | Pagina arată toate cursurile disponibile |
+| "Primul client în 30 de zile" | Titlu: "30-Day First Income Blueprint — Market Your Skill" | Titlu: "Market Your Skill Platform" |
+
+**Congruență Avansată — Segmentare pe Audiență:**
+
+Poți rula două funnel-uri paralele pentru aceeași campanie:
+- **Funnel 1 (Tineri 18-25 ani):** Mesaj axat pe "primul venit", independență financiară, primul client.
+- **Funnel 2 (Adulți 26-45 ani):** Mesaj axat pe "schimbarea traiectoriei", recalificare, respectul familiei.
+
+Mesajul se schimbă, pagina se schimbă, dar oferta de bază (EduForYou + Student Finance) rămâne aceeași.
+
+---
+
+### 12.10 — Tactici Bonus
+
+#### Gestionarea Obiecțiilor în Script
+
+Cele 5 obiecții principale ale audienței EduForYou și cum le adresezi:
+
+**Obiecție 1: "Nu am timp — lucrez full-time."**
+> Setup: "Știu că lucrezi full-time și că nu poți renunța la salariu."
+> Flip: "De aceea programul EduForYou este proiectat pentru oameni ca tine: 1 zi pe campus + 1 zi online pe săptămână. Aproximativ 10 ore total. Poți face asta în weekend."
+
+**Obiecție 2: "Nu știu engleza suficient de bine."**
+> Setup: "Mulți studenți ai noștri au început cu același nivel de engleză ca tine."
+> Flip: "Universitatea te ajută să îmbunătățești engleza în timp ce studiezi. Este un beneficiu dublu."
+
+**Obiecție 3: "Sunt prea bătrân."**
+> Setup: "Înțeleg că simți că ai ratat momentul."
+> Flip: "Nu există vârstă limită pentru Student Finance în UK. Cel mai în vârstă student al nostru a început la 47 de ani. Și a terminat la 50. Cu o diplomă britanică."
+
+**Obiecție 4: "Nu știu ce curs să aleg."**
+> Setup: "Știu că există 9 cursuri și că alegerea poate părea copleșitoare."
+> Flip: "De aceea avem Skill Scanner AI în Market Your Skill — îți identifică skill-urile și îți recomandă cursul potrivit în 20 de minute."
+
+**Obiecție 5: "Sună prea bine să fie adevărat."**
+> Setup: "Înțeleg scepticismul. Am auzit asta de sute de ori."
+> Flip: "Student Finance England este un program guvernamental britanic care există din 1998. Nu este o schemă. Este un drept al tău dacă ai Settled Status. Verifică singur pe gov.uk."
+
+#### Beneficii Bazate pe Status — Adaptate pentru EduForYou
+
+Nu vinzi o diplomă — vinzi un nou statut social și o nouă identitate.
+
+**Exemplu Hormozi aplicat la EduForYou:**
+> "Nu ar fi frumos să fii primul din familia ta cu o diplomă britanică? Să fii cel pe care toți îl sună când au o întrebare despre carieră? Să fii exemplul pe care îl urmează copiii tăi?"
+
+**Alte formulări bazate pe status:**
+- "Fii colegul care a avansat, nu cel care a rămas pe loc."
+- "Fii părintele care poate spune copilului său: am terminat o universitate în UK."
+- "Fii românul din UK care a ales altceva."
+
+#### Tehnica "Nu Ești Tu" — Adaptată pentru EduForYou
+
+Elimini vinovăția și redirecționezi vina către un villain extern (lipsa informației, sistemul, miturile false).
+
+**Exemplu:**
+> "Dacă ai lucrat 5 ani în UK și tot nu ai avansat, problema nu ești tu. Ești inteligent, muncești din greu, ești dedicat. Problema este că nimeni nu ți-a arătat că există un sistem complet diferit. Că statul britanic îți poate finanța o diplomă. Că skill-urile tale pot fi monetizate din ziua 1. Problema a fost lipsa informației. Acum ai informația."
+
+**De ce funcționează:** Elimină rușinea și auto-blamarea. Audiența se simte înțeleasă și eliberată. Și acum este receptivă la soluție.
+
+---
+
+### 12.11 — Checklist Reclamă EduForYou Înainte de Lansare
+
+**HOOK (Primele 3 secunde):**
+- [ ] Are O SINGURĂ IDEE CLARĂ (Regula Celor Unu)?
+- [ ] Creează curiozitate sau emoție imediată?
+- [ ] Are text vizual pe ecran (3-5 cuvinte bold, alb sau auriu pe navy)?
+- [ ] Funcționează și fără sunet (text pe ecran suficient)?
+- [ ] Propozițiile sunt scurte și staccato?
+
+**STRUCTURA:**
+- [ ] Urmează Villain & Hero (8 pași) SAU Formula Hormozi (Durată+Beneficiu+Cuvânt Puternic)?
+- [ ] Există un singur mesaj central?
+- [ ] Toate punctele susțin acel mesaj central?
+- [ ] Obiecțiile principale sunt adresate?
+
+**PSIHOLOGIE:**
+- [ ] Adresează un punct de durere real al audienței EduForYou?
+- [ ] Creează un loop de curiozitate deschis?
+- [ ] Folosește emoție (frustrare, aspirație, ușurare)?
+- [ ] Există dovadă socială (testimoniale reale cu cifre)?
+- [ ] Folosește tehnica "Nu Ești Tu" pentru a elimina vinovăția?
+
+**PRODUCȚIE:**
+- [ ] Claritatea bate estetica — mesajul este clar în 3 secunde?
+- [ ] Produsul/platforma este arătat în uz (dashboard, scrisoare Student Finance, campus)?
+- [ ] Culorile respectă paleta EduForYou (navy + gold + white)?
+- [ ] CTA-ul este clar, specific și formulat ca invitație (vocea lui Alin)?
+
+**CONGRUENȚĂ:**
+- [ ] Titlul reclamei = Titlul landing page-ului?
+- [ ] Același limbaj, aceleași imagini, aceeași promisiune pe pagină?
+- [ ] Dacă reclama promite "zero bani din buzunar", pagina confirmă imediat?
+
+**TESTARE:**
+- [ ] Ai cel puțin 2 formate diferite pentru același mesaj (ex: Founder Ad + UGC)?
+- [ ] Ai cel puțin 2-3 hook-uri diferite de testat?
+- [ ] Știi ce metrici vei urmări (Hook Rate, ThruPlay, CTR, Cost per Lead)?
+
+---
+
+### 12.12 — Rezumat Executiv: Algoritmul de Creare Reclamă EduForYou
+
+Când creezi o reclamă EduForYou, urmează acești pași în ordine:
+
+1. **Identifică O Singură Idee Mare** — Finanțare 100% SAU Câștigă în timp ce înveți SAU Transformarea traiectoriei.
+2. **Alege Unghiul** — Mesaj + Hook + Format (din Matricea 12.2).
+3. **Potrivește cu Etapa Funnel-ului** — Top (UGC/Street/Founder) / Middle (Mini VSL/Mashup) / Bottom (Static/Testimoniale/Offer).
+4. **Scrie Hook-ul** — Context Lean-In → Scroll Stop Interjection → Contrarian Snapback.
+5. **Construiește Scriptul** — Villain & Hero (8 pași) sau Formula Hormozi.
+6. **Adaugă Dovadă Socială** — Andrei, Maria, Alex + cifre concrete.
+7. **Gestionează Obiecțiile** — Timp, engleză, vârstă, alegerea cursului, scepticism.
+8. **Termină cu CTA în Vocea lui Alin** — Invitație caldă, nu presiune.
+9. **Asigură Congruența** — Reclamă = Landing Page.
+10. **Testează Multiple Formate** — Același mesaj, formate diferite.
+
+**Principii de Aur pentru Reclame EduForYou:**
+- Claritatea bate întotdeauna estetica.
+- Viteza bate perfecțiunea.
+- Dovada socială (Andrei, Maria, Alex) bate afirmațiile.
+- Emoția (aspirație, ușurare, frustrare) bate logica — dar logica o susține.
+- Un singur mesaj bate zece mesaje.
+- Vocea lui Alin (invitație caldă, vulnerabilitate + sistem) bate orice copy corporate.
+
+---
+
+*Secțiunea 12 adăugată: Martie 2026*
+*Bazată pe: ads_framework_complete.md — Framework-uri Alex Hormozi + Fraser, adaptate pentru EduForYou și Market Your Skill*
