@@ -1480,3 +1480,101 @@ Când creezi o reclamă EduForYou, urmează acești pași în ordine:
 
 *Secțiunea 12 adăugată: Martie 2026*
 *Bazată pe: ads_framework_complete.md — Framework-uri Alex Hormozi + Fraser, adaptate pentru EduForYou și Market Your Skill*
+
+---
+
+## 13. SISTEM REPURPOSING CONȚINUT — UN VIDEO = 7 FORMATE
+
+Acest sistem detaliază cum transformăm un singur video YouTube EduForYou (pillar content) în 7 bucăți de conținut complet diferite, adaptate fiecărei platforme. **NU copy-paste** — fiecare platformă are propriul ton, lungime și format.
+
+### 13.1 — PRINCIPIUL DE BAZĂ
+
+Un video YouTube = sursa primară (pillar content). Tot restul derivă din el.
+**Workflow:** YouTube → TikTok/Reel/Short → Facebook → Instagram → LinkedIn → Newsletter → Pinterest
+
+### 13.2 — FORMAT PER PLATFORMĂ
+
+**YouTube (Pillar Content)**
+- **Durată:** 8-15 minute
+- **Structură:** WHY→WHAT→HOW în vocea lui Alin
+- **Hook:** primele 30 secunde decisive
+- **Titlu:** sub 55 caractere, front-load keyword
+- **Thumbnail:** split screen dramatic, navy+auriu
+
+**TikTok / YouTube Shorts / Instagram Reels (60 sec)**
+- Extrage CEL MAI BUN moment din video (nu introducerea!)
+- **Structură:** Hook 3 sec → Problemă → Soluție → CTA
+- **Ton:** energic, rapid, direct, fără introduceri lungi
+- **Text overlay:** sincronizat cu vocea
+- **Hook examples pentru EduForYou:**
+  - "Ți s-a spus că diploma te salvează. Minciună."
+  - "Colegii tăi câștigă £2,000/lună. Tu de ce nu?"
+  - "Universitatea te înscrie. Noi te și pregătim."
+- **Hashtag-uri:** #EduForYou #MarketYourSkill #StudentiUK #CastigaInTimpceStudiezi
+
+**Facebook (Post text lung + imagine)**
+- **Lungime:** 200-400 cuvinte
+- **Ton:** storytelling emoțional, mai matur, context complet
+- **Structură:** Povestea unui student real (sau Alin) → Problema → Transformarea → Invitație
+- **Imagine:** navy+auriu, cinematic, cu față umană
+- **CTA:** "Comentează DA dacă vrei mai multe detalii" sau link spre landing page
+- **Regulă:** Fără hashtag-uri excesive (max 3)
+
+**Instagram (Carusel sau imagine singulară + caption)**
+- **Caption:** max 150 cuvinte, direct, cu emoji strategice
+- **Carusel:** 5-7 slide-uri cu un singur concept explicat vizual (ex: "5 skill-uri pe care le ai deja și nu știi că valorează bani")
+- **Imagine:** brand EduForYou strict — navy #0A1628, auriu #C9A84C, font bold
+- **Hashtag-uri:** 5-10, mix broad + nișă
+- **CTA:** "Link în bio" sau "Salvează postul"
+
+**LinkedIn (Post text)**
+- **Lungime:** 150-300 cuvinte
+- **Ton:** profesional dar personal, vulnerabil, "How I..." framework
+- **Structură:** Hook contrarian (1 linie) → White space → Povestea în pași scurți → Lecția → CTA
+- **REGULI LINKEDIN:** fără linkuri în post (pun în comentariu), white space după fiecare 1-2 propoziții, citit cu voce tare înainte de publicare
+- **Exemplu hook:** "Am lucrat în depozit 3 ani după facultate. Iată ce nu mi-a spus nimeni."
+- **CTA:** "Ce skill ai tu pe care nu l-ai monetizat încă? Scrie în comentarii."
+
+**Newsletter / Email**
+- **Lungime:** 400-600 cuvinte
+- **Ton:** cel mai personal, ca o scrisoare de la Alin direct
+- **Structură:** Subiect email (curiosity gap) → Salut personal → Povestea săptămânii → Lecția principală → Link spre video YouTube → CTA spre eduforyou.co.uk
+- **Subject line formule:**
+  - "Săptămâna asta am realizat că..."
+  - "Studentul care câștiga £0 și acum face £2,000/lună"
+  - "Ce nu ți-a spus nimeni despre diploma ta"
+
+**Pinterest**
+- **Imagine:** verticală 1000x1500px
+- **Text overlay:** scurt, maxim 8 cuvinte, bold, lizibil
+- **Link:** spre blog post sau landing page EduForYou
+- **Board-uri recomandate:** "Studenți UK", "Câștigă Bani Studiind", "Market Your Skill", "EduForYou"
+
+### 13.3 — WORKFLOW AUTOMAT (Prompt-uri gata de folosit)
+
+Include aceste prompt-uri exacte pe care Manus le va folosi după fiecare video YouTube:
+
+**Prompt TikTok/Reel:**
+> "Ești un strateg de short form video specializat în conținut viral pentru EduForYou UK. Transformă transcriptul următor într-un script de 60 secunde pentru TikTok/Reel, respectând brand voice EduForYou (direct, autoritar, vocea lui Alin Radu). Extrage cel mai puternic moment, nu folosi introducerea. Hook în primele 3 secunde. Returnează: hook, script complet, text overlay recomandat, hashtag-uri. Transcript: [TRANSCRIPT]"
+
+**Prompt Facebook:**
+> "Ești un strateg de social media specializat în Facebook marketing pentru EduForYou UK. Transformă transcriptul următor într-un post Facebook de 200-300 cuvinte, cu storytelling emoțional în română, în vocea lui Alin Radu. Structură: poveste → problemă → transformare → invitație caldă. Returnează: textul postului + descrierea imaginii recomandate. Transcript: [TRANSCRIPT]"
+
+**Prompt Instagram:**
+> "Ești un strateg de social media specializat în Instagram pentru EduForYou UK. Transformă transcriptul următor într-un caption Instagram de max 150 cuvinte + plan carusel de 5 slide-uri (dacă e relevant). Brand voice: direct, energic, în română. Include 7 hashtag-uri relevante. Returnează: caption, slide-uri carusel (dacă aplicabil), hashtag-uri. Transcript: [TRANSCRIPT]"
+
+**Prompt LinkedIn:**
+> "Ești un strateg LinkedIn specializat în personal branding pentru EduForYou UK. Transformă transcriptul următor într-un post LinkedIn de 150-250 cuvinte, în vocea lui Alin Radu. Ton: profesional dar personal, vulnerabil, 'How I...' framework. White space după fiecare 1-2 propoziții. Fără linkuri în post. Hook contrarian în prima linie. CTA cu întrebare la final. Transcript: [TRANSCRIPT]"
+
+**Prompt Newsletter:**
+> "Ești un strateg de email marketing specializat pentru EduForYou UK. Transformă transcriptul următor într-un newsletter de 400-500 cuvinte, ca o scrisoare personală de la Alin Radu. Include: subject line (curiosity gap), salut personal, povestea săptămânii, lecția principală, link spre video, CTA spre eduforyou.co.uk. Transcript: [TRANSCRIPT]"
+
+### 13.4 — REGULI DE AUR PENTRU REPURPOSING
+
+- **Nu posta același text pe toate platformele** — algoritmii penalizează cross-posting identic.
+- **Adaptează lungimea:** TikTok = 60 sec, LinkedIn = 2 min citit, Facebook = 3 min citit.
+- **Adaptează tonul:** TikTok = energic/rapid, LinkedIn = profesional/personal, Facebook = emoțional/narativ.
+- **Postează în ordine:** YouTube → 24h → TikTok/Reel → 48h → Facebook/LinkedIn → 72h → Newsletter.
+- **Fiecare post trebuie să poată sta singur** — nu presupune că audiența a văzut video-ul.
+
+---
